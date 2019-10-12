@@ -1,0 +1,14 @@
+#First Set of problems -
+#Print 1 to 10
+#Prints the squares of all integers from 1 to 10 (2**2, 3**2, 4**2 etc.)
+#Print all even numbers between two numbers
+
+x=1
+while x<=10:
+   print(x, end=" ")
+   x=x+1
+print("\n")
+for i in range(1,11):
+    print(i, end=" ")
+
+
