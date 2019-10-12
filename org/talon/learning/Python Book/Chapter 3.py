@@ -7,6 +7,7 @@
 # samurai_ninja={3*25: 'ninja', 2*40: 'samurai'}
 # print(samurai_ninja)
 
-sai = 'sai'
-chap = 'chappidi'
+sai = 'Sai'
+chap = 'Chappidi'
 print('Hi there, %s %s' % (sai, chap))
+
