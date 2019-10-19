@@ -11,3 +11,9 @@ sai = 'Sai'
 chap = 'Chappidi'
 print('Hi there, %s %s' % (sai, chap))
 
+hugehairypants = ['huge', 'hairy', 'pants']
+for i in hugehairypants:
+    print(i)
+    for j in hugehairypants:
+        print(j)
+

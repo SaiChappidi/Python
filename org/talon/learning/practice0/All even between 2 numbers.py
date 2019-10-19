@@ -1,7 +1,7 @@
 # print all even numbers between two numbers
 
 onenumber = int(input("Enter a number: "))
-x=onenumber
+x = onenumber
 twonumber = int(input("Enter a number greater than the first: "))
 while onenumber < twonumber:
     if onenumber % 2 == 0:
@@ -10,6 +10,5 @@ while onenumber < twonumber:
 
 print()
 for i in range(x, twonumber):
-    if i%2==0:
+    if i % 2 == 0:
         print(i)
-
