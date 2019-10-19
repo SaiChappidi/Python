@@ -1,12 +1,13 @@
-# for x in range(0, 20):
-#    print('hello %s' % x)
-#    if x<9:
-#        break
+for x in range(0, 20):
+  print('hello %s' % x)
+  if x<9:
+    break
+#PRoblem 2
 
-# x=1
-# while x<= 13:
-#    print(x)
-#    x=x+2
+x=1
+while x<= 13:
+  print(x)
+  x=x+2
 
 #x = 1
 #ingredients = ['snails', 'leeches', 'gorilla belly-button lint', 'caterpillar eyebrows', 'centipede toes']
