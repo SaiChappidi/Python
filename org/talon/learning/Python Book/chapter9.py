@@ -14,7 +14,6 @@ for x in range(0, len(words), 2):
     print(words[x])
 
 
-
 f = open('test.txt')
 s = f.read()
 f.close()
